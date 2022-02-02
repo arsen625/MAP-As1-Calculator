@@ -1,0 +1,27 @@
+<resources>
+    <string name="Modulo">%</string>
+    <string name="Power">POW</string>
+    <string name="_Minimum">MIN</string>
+    <string name="_Maximum">MAX</string>
+    <string name="app_name">Assignment 1</string>
+    <string name="assignment_1">Assignment 1</string>
+    <string name="the_calculation_result">The calculation result</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_plus">+</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_minus">-</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_times">*</string>
+    <string name="c">C</string>
+    <string name="_0">0</string>
+    <string name="_equals">=</string>
+    <string name="_divide">/</string>
+    <string name="advance_scientific">ADVANCE - SCIENTIFIC</string>
+    <string name="standard">STANDARD </string>
+</resources>
